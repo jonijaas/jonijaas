@@ -17,10 +17,11 @@
 
 ## 📂 My Projects & Courses
 
+- [GolfPörssi](https://github.com/jonijaas/Golfporssi) - Golf-themed marketplace web application using React, Node.js and Tailwind CSS
+- [MetroPayApp](https://github.com/jonijaas/MetroPayApp) - Banking application built as a school group project using Java
 - [Full Stack Open](https://fullstackopen.com/en/) -course by University of Helsinki: [Parts 0-9](https://github.com/jonijaas/FS_palautusrepositorio) [Part 10](https://github.com/jonijaas/FS_osa10) [Part 11](https://github.com/jonijaas/CICD-Blogapp) [Part 12](https://github.com/jonijaas/part12-containers-applications) [Part 13](https://github.com/jonijaas/FS_part13)
-- Design Patterns -course exercises: [Suunnittelumallit](https://github.com/jonijaas/Suunnittelumallit)
-- Java school project: [MetroPayApp](https://github.com/jonijaas/MetroPayApp)
-- HTML & JavaScript school project:    [PizzaApp](https://github.com/jonijaas/PizzaApp)
+- [Suunnittelumallit](https://github.com/jonijaas/Suunnittelumallit) - Design Patterns -course exercises implemented in Java
+- [PizzaApp](https://github.com/jonijaas/PizzaApp) - Simple pizzeria ordering web application school project using plain HTML, CSS and JavaScript
 
 ## 💡 Skills & Knowledge
 
